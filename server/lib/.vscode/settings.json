@@ -1,9 +1,0 @@
-{
-    "editor.renderWhitespace": "boundary",
-    "files.exclude": {
-        "build": true,
-        ".idea": true,
-        ".vscode": true,
-        "node_modules": true
-    }
-}
