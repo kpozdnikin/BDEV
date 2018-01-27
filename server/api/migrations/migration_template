@@ -1,0 +1,6 @@
+module.exports = {
+  migrate: function( callback ) {
+    // Remove this callback only if you fill out this function
+    return callback( new Error('migrate() function is empty') );
+  }
+};
